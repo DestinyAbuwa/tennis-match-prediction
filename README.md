@@ -15,4 +15,4 @@ This project analyzes professional ATP tennis matches from 2000 to 2026 to predi
 ## AI Use
 In accordance with the course AI policy:
 - **Tools Used:** Gemini / GitHub Copilot
-- **Purpose:** Assisting with Python/Pandas code syntax, debugging modeling pipelines, and structuring repository documentation.
+- **Purpose:** Brainstorming ideas, write and debug code, polish explanations, and structuring repository documentation.
